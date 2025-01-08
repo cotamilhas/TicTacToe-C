@@ -1,9 +1,6 @@
-# TicTacToe-C
-This project is a simple Tic-Tac-Toe game written in C, using a modular approach. The game is played in the terminal by two players who take turns marking the board. Players enter the column first and then the row to make their moves. The console clears automatically after each move to keep the interface clean.
-
 # 🕹️ Tic-Tac-Toe Game in C
 
-This project is a simple **Tic-Tac-Toe game** implemented in **C** using a modular approach. The game runs in the terminal, where two players take turns marking the board until there's a winner or the game ends in a draw.
+This project is a simple Tic-Tac-Toe game written in C, using a modular approach. The game is played in the terminal by two players who take turns marking the board. Players enter the column first and then the row to make their moves. The console clears automatically after each move to keep the interface clean.
 
 ## 🎮 How to Play
 
